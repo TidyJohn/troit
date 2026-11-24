@@ -13,7 +13,7 @@ $font = New-Object System.Drawing.Font($fonts.Families[0], 43, [System.Drawing.F
 $format = New-Object System.Drawing.StringFormat
 $format.Alignment = [System.Drawing.StringAlignment]::Center
 $format.LineAlignment = [System.Drawing.StringAlignment]::Center
-$graphics.DrawString('Troit /', $font, [System.Drawing.Brushes]::White, [System.Drawing.RectangleF]::new(0, 0, 320, 180), $format)
+$graphics.DrawString('Troit', $font, [System.Drawing.Brushes]::White, [System.Drawing.RectangleF]::new(0, 0, 320, 180), $format)
 $bitmap.Save((Join-Path $bannerDirectory 'troit_tv_banner.png'), [System.Drawing.Imaging.ImageFormat]::Png)
 $format.Dispose()
 $font.Dispose()

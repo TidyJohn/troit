@@ -417,13 +417,8 @@ private fun AppContent(
         Row(Modifier.weight(1f)) {
             if (wide) {
                 Column(Modifier.width(224.dp).fillMaxHeight().padding(20.dp)) {
-                    Row(Modifier.padding(top = 12.dp, bottom = 38.dp), verticalAlignment = Alignment.CenterVertically) {
-                        Box(Modifier.size(36.dp).clip(RoundedCornerShape(12.dp)).background(MaterialTheme.colorScheme.primary), contentAlignment = Alignment.Center) {
-                            TuneIcon("music", Modifier.size(22.dp), MaterialTheme.colorScheme.onPrimary)
-                        }
-                        Text("Troit", Modifier.padding(start = 10.dp), fontSize = 28.sp, fontWeight = FontWeight.Bold, letterSpacing = (-1).sp)
-                        Text(" /", color = MaterialTheme.colorScheme.primary, fontSize = 28.sp)
-                    }
+                    Text("Troit", Modifier.padding(top = 12.dp, bottom = 38.dp),
+                        fontSize = 28.sp, fontWeight = FontWeight.Bold, letterSpacing = (-1).sp)
                     NavigationLinks(tab, vertical = true) { tab = it; pages.clear() }
                     Spacer(Modifier.height(20.dp))
                     Column(Modifier.weight(1f).verticalScroll(rememberScrollState())) {
