@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Troit</string>
+    <color name="troit_black">#000000</color>
+    <color name="troit_white">#FFFFFF</color>
+    <style name="TroitWindowBase" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">@font/manrope_regular</item>
+        <item name="android:windowBackground">@color/troit_black</item>
+        <item name="android:statusBarColor">@color/troit_black</item>
+        <item name="android:navigationBarColor">@color/troit_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">@color/troit_white</item>
+    </style>
+    <style name="TroitWindowTheme" parent="TroitWindowBase" />
+</resources>

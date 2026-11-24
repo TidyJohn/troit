@@ -1,0 +1,43 @@
+{
+  "retrievedAt": "2026-11-13",
+  "purpose": "Distinct ordinary reaction photo references for Indonesian-caption app stickers.",
+  "inspection": "Each downloaded original was visually inspected. All four show fully clothed, ordinary comedy or reaction appearances, without visible explicit sexual content or overlaid watermarks. These are still references; any later animation is created by the app asset workflow.",
+  "sources": [
+    {
+      "subject": "Kayode Ewumi as Roll Safe",
+      "file": "roll-safe.jpg",
+      "sourcePage": "https://imgflip.com/memetemplate/123433318/Smart-Black-Rapper",
+      "imageUrl": "https://i.imgflip.com/21hlra.jpg",
+      "description": "Smiling man in a black leather jacket tapping his temple, outside a shop.",
+      "provenance": "Meme-template repost of a Hood Documentary screen capture.",
+      "licenseStatus": "No explicit reuse license verified. Rights remain with the original creator or respective rights holders."
+    },
+    {
+      "subject": "Khaby Lame",
+      "file": "khaby-lame.jpg",
+      "sourcePage": "https://www.meme-arsenal.com/create/template/11320744",
+      "imageUrl": "https://images.meme-arsenal.com/3c5cfc278afd91526388d752c46a6933.jpg",
+      "description": "Man in a purple hoodie with palms raised in his signature bemused reaction.",
+      "provenance": "Meme-template repost of a Khaby Lame video still.",
+      "licenseStatus": "No explicit reuse license verified. Rights remain with the original creator or respective rights holders."
+    },
+    {
+      "subject": "Conceited reaction",
+      "file": "conceited-reaction.jpg",
+      "sourcePage": "https://www.pinterest.com/pin/577868195930631553/",
+      "imageUrl": "https://i.pinimg.com/736x/56/30/df/5630dfdcbfc9dff43552ed7f7fe903ec.jpg",
+      "description": "Man in a sideways patterned cap and tan vest holding a red cup and making an unimpressed expression; another clothed man stands behind.",
+      "provenance": "Third-party reaction-meme repost. Original recording ownership was not independently established.",
+      "licenseStatus": "No explicit reuse license verified. Rights remain with the original creator or respective rights holders."
+    },
+    {
+      "subject": "Eddie Murphy laughing",
+      "file": "eddie-murphy-laugh.jpg",
+      "sourcePage": "https://www.nickiswift.com/343975/heres-how-much-eddie-murphy-is-really-worth/",
+      "imageUrl": "https://www.nickiswift.com/img/gallery/heres-how-much-eddie-murphy-is-really-worth/he-got-his-start-doing-stand-up-1661461036.jpg",
+      "description": "Eddie Murphy in a gray suit and patterned tie, seated and laughing in a television interview.",
+      "provenance": "Entertainment article image identified as a 1985 Oprah appearance.",
+      "licenseStatus": "No explicit reuse license verified. Rights remain with the original creator or respective rights holders."
+    }
+  ]
+}

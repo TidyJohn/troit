@@ -1,0 +1,23 @@
+{
+  "retrievedDate": "2026-11-13",
+  "references": [
+    {
+      "file": "perrell-candid-talk-19.jpg",
+      "person": "Perrell Brown, professionally known as Dreamybull / Dreamy",
+      "sourceTitle": "Dreamybull Candid Talk 19",
+      "sourcePublisher": "The Real Dreamy (YouTube channel)",
+      "sourcePage": "https://www.youtube.com/watch?v=Y6xO_9tFo6w",
+      "imageUrl": "https://i.ytimg.com/vi/Y6xO_9tFo6w/maxresdefault.jpg",
+      "description": "Public talk thumbnail. Smiling adult man in a light pink T-shirt, glasses, black bandana, and earrings. Fully clothed; ordinary nonsexual pose and expression.",
+      "visualInspection": "Downloaded original JPEG was manually inspected with view_image. 1280 by 720 pixels. Portrait appears on the right against a colorful CANDID TALK promotional background.",
+      "provenance": "YouTube search identifies this video as published by the verified The Real Dreamy channel. The direct YouTube thumbnail was downloaded; no adult gallery or sexual footage was used.",
+      "rights": "Publicly viewable source; no open reuse license was verified."
+    }
+  ],
+  "duplicateCandidate": {
+    "file": "perrell-candid-talk-22.jpg",
+    "sourcePage": "https://www.youtube.com/watch?v=llV-9D_9Ypg",
+    "imageUrl": "https://i.ytimg.com/vi/llV-9D_9Ypg/maxresdefault.jpg",
+    "note": "Byte-identical to the Candid Talk 19 thumbnail. Do not use as a distinct variation."
+  }
+}

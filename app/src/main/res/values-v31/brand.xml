@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TroitWindowTheme" parent="TroitWindowBase">
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowSplashScreenBackground">@color/troit_black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/troit_launcher_icon</item>
+    </style>
+</resources>

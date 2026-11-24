@@ -1,0 +1,50 @@
+﻿{
+    "generatedAt":  "2026-11-13",
+    "width":  320,
+    "height":  320,
+    "frames":  10,
+    "delayMs":  140,
+    "totalBytes":  3583956,
+    "gifs":  [
+                 {
+                     "file":  "sticker_jawir_gas.gif",
+                     "bytes":  441945,
+                     "sha256":  "cab60881ebbb819734b977d2bffb6336645df5cbed516dfcc68c1c6ac7dbcc6d"
+                 },
+                 {
+                     "file":  "sticker_jawir_mantap.gif",
+                     "bytes":  437520,
+                     "sha256":  "be951f0f033d580db4efe152cdb6be68c485612537a34af9983877366b4e35a6"
+                 },
+                 {
+                     "file":  "sticker_jawir_ngopi.gif",
+                     "bytes":  457178,
+                     "sha256":  "9090a622fc950bd0209c0e705dc8b3a9c4c170e47e801ff7e600cc2919906b17"
+                 },
+                 {
+                     "file":  "sticker_jawir_siap.gif",
+                     "bytes":  452036,
+                     "sha256":  "b95dab63bafad50bb281133ab5d7f54315b334156561ed4c0f2acff1ff2cbe25"
+                 },
+                 {
+                     "file":  "sticker_jomok_bruh.gif",
+                     "bytes":  448892,
+                     "sha256":  "2f0d3e3f17389f4b5a364710884016d5c0998ae6f85197b5859dfbc3ea89e2b1"
+                 },
+                 {
+                     "file":  "sticker_jomok_santuy.gif",
+                     "bytes":  470459,
+                     "sha256":  "d322e495063dce08f42fae3ce6dd07f711f0448614273b880bfc5f6441c99860"
+                 },
+                 {
+                     "file":  "sticker_jomok_waduh.gif",
+                     "bytes":  419945,
+                     "sha256":  "e8b56283eb58291df5a2d559894ad597f80ba95defbc9c829ec495fa57bc76da"
+                 },
+                 {
+                     "file":  "sticker_jomok_wkwk.gif",
+                     "bytes":  455981,
+                     "sha256":  "10040b3faccbf5ea8440bc010b402864539c1d769da26d83881fcf4ad2dba133"
+                 }
+             ]
+}

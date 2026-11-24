@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">Troit player</string>
+    <string name="widget_description">See and control music on this phone or your connected computer.</string>
+    <string name="widget_empty_title">Your music, within reach</string>
+    <string name="widget_empty_artist">Play something in Troit</string>
+    <string name="widget_refresh">Refresh connected device</string>
+    <string name="widget_previous">Previous song</string>
+    <string name="widget_next">Next song</string>
+    <string name="widget_play">Play</string>
+    <string name="widget_pause">Pause</string>
+    <string name="widget_open">Open Troit</string>
+</resources>

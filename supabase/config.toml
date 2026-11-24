@@ -1,0 +1,3 @@
+[functions.device-pairing]
+# TV creation/polling uses a one-time possession secret. Approval is an authenticated database RPC.
+verify_jwt = false

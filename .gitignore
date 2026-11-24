@@ -1,0 +1,8 @@
+# Gradle caches and generated build outputs
+.gradle/
+.kotlin/
+build/
+
+# Local SDK configuration and installed test dependencies
+/local.properties
+node_modules/
